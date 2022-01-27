@@ -11,16 +11,25 @@
     <div id="message">
         <p>this is a message</p>
     </div>
-    <button id='msgButton' onclick='displayMessage()'>Click here for a message</button>
+    <button id='msgButton' onclick='buttonDisappears()'>Click here for a message</button>
 </body>
 <script>
 const messageWindow = document.getElementById('message')
 const button = document.getElementById('msgButton')
-function displayMessage() {
+function buttonDisappears() {
+    button.style.animation = 'fadeOut 1s ease-in 0s'
+    setTimeout(() => {
+        button.style.display = 'none';
+    }, 1000)
+    setTimeout(() => {
+        displayMessage();
+    }, 2000)
+}
+
+function displayMessage() {    
     messageWindow.style.display = 'block';
     messageWindow.style.animation ='fadeIn 1s ease-in 0s';
-    button.style.animation = 'fadeOut 1s ease-in 0s'
-    button.style.display = 'none';
+    
 }
     </script>
 </html>
