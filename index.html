@@ -5,7 +5,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="a web app that shows you an encouraging message" />
+  <link href="./style.css" rel='stylesheet' />
 </head>
 <body>
+    <div id="message">
+        <p>this is a message</p>
+    </div>
+    <button id='msgButton' onclick='displayMessage()'>Click here for a message</button>
 </body>
+<script>
+const messageWindow = document.getElementById('message')
+const button = document.getElementById('msgButton')
+function displayMessage() {
+    messageWindow.style.display = 'block';
+    button.style.display = 'none';
+}
+    </script>
 </html>
