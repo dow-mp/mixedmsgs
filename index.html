@@ -18,6 +18,8 @@ const messageWindow = document.getElementById('message')
 const button = document.getElementById('msgButton')
 function displayMessage() {
     messageWindow.style.display = 'block';
+    messageWindow.style.animation ='fadeIn 1s ease-in 0s';
+    button.style.animation = 'fadeOut 1s ease-in 0s'
     button.style.display = 'none';
 }
     </script>
