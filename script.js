@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //html elements
 const msgButton = document.getElementById('msgButton')
 const messageWindow =  document.getElementById('message')
@@ -36,5 +37,7 @@ function displayMessage() {
     messageWindow.style.animation ='fadeIn 1s ease-in 0s';
     
 }
+=======
+>>>>>>> parent of 8ee52fa (Merge branch 'loadjson')
 =======
 >>>>>>> parent of 8ee52fa (Merge branch 'loadjson')
