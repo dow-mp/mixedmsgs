@@ -22,13 +22,13 @@ console.log(adjectives)
 
 // For message & button animation 
 function buttonDisappears() {
-    msgButton.style.animation = 'fadeOut 1s ease-in 0s'
+    msgButton.style.animation = 'fadeOut 0.7s ease-in 0s'
     setTimeout(() => {
         msgButton.style.display = 'none';
-    }, 1000)
+    }, 700)
     setTimeout(() => {
         displayMessage();
-    }, 2000)
+    }, 1500)
 	return;
 }
 
