@@ -1,3 +1,4 @@
+
 //html elements
 const msgButton = document.getElementById('msgButton')
 const messageWindow = document.getElementById('message')
