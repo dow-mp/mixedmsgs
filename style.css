@@ -34,11 +34,11 @@ button:active {
     display: none;
     height: 30%;
     width: 70%;
-    border: 1px solid grey;
-    background-color: skyblue;
+    background: linear-gradient(120deg, #b4c4f5, #e6c0ff);
     transition: display 1s ease-in-out 0s;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 #message > p {
