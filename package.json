@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"build": "cp data.json index.html script.js style.css dist/",
+		"deploy": "npm run build && gh-pages -d dist"
+	},
+	"dependencies": {
+		"gh-pages": "^3.2.3"
+	}
+}
