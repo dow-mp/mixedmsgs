@@ -44,6 +44,5 @@ Prerequisites:
 
 - jlema: [GitHub](https://github.com/jlema) | [LinkedIn](https://www.linkedin.com/in/juanlema/) | [Twitter](https://twitter.com/wisdomjuice)
 
-- (name to display, website, etc.)
-
+- sharkba1t: [GitHub](https://github.com/sharkba1t)
 ## Acknowledgements
