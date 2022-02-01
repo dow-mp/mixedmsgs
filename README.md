@@ -2,22 +2,17 @@
 
 ## Table of Contents
 
-- [Process](#process)
-- [Built using:](#built-using)
-- [What we learned](#what-we-learned)
-- [Contributors](#contributors)
-- [Acknowledgements](#acknowledgements)
+- [Mixed Messages | from Codecademy](#mixed-messages--from-codecademy)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Process](#process)
+  - [Built using](#built-using)
+  - [What we learned](#what-we-learned)
+  - [Contributors](#contributors)
 
 ## Project Overview
 
-For this project, you will build a message generator program. Every time a user runs a program, they should get a new, randomized output. You’re welcome to take the project in a couple of different forms, like an astrology generator, inspirational message, or nonsensical jokes. To make your program truly random, the message that it outputs should be made up of at least three different pieces of data. Take what you know of JavaScript syntax so far to build the program and customize it to your liking.
-
-Project Objectives:
-
-- Build a message generator program using JavaScript
-- Use Git version control
-- Use command line
-- Develop locally on your computer
+For this project, we built a "hype up" message generator program. Every time a user runs a program, they should get a new, randomized output meant to inspire confidence and good feelings for their day. 
 
 Prerequisites:
 
@@ -26,7 +21,11 @@ Prerequisites:
 - Command line
 
 ## Process
-
+- Planning completed using a private Discord server
+- Idea/language to be used developed by Dow-mp
+- HTML/CSS written by sharkba1t
+- json developed and fetched via Javascript by jlema
+- Javascript for animation, randomization, and interactivity developed collaboratively by sharkba1t, Dow-mp, jlema
 ## Built using
 
 - HTML / CSS
@@ -37,6 +36,7 @@ Prerequisites:
 - Git and GitHub
 
 ## What we learned
+Working collaboratively on a project using Git and Github was novel to the team. We were able to learn how to effectively complete pull requests, merge branches, and fetch information from the remote repository. The team worked well together providing valuable suggestions as branches were developed. 
 
 ## Contributors
 
@@ -45,4 +45,4 @@ Prerequisites:
 - jlema: [GitHub](https://github.com/jlema) | [LinkedIn](https://www.linkedin.com/in/juanlema/) | [Twitter](https://twitter.com/wisdomjuice)
 
 - sharkba1t: [GitHub](https://github.com/sharkba1t)
-## Acknowledgements
+
