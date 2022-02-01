@@ -1,9 +1,6 @@
 # Mixed Messages | from Codecademy
 
 ## Table of Contents
-
-- [Mixed Messages | from Codecademy](#mixed-messages--from-codecademy)
-  - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Process](#process)
   - [Built using](#built-using)
@@ -11,11 +8,9 @@
   - [Contributors](#contributors)
 
 ## Project Overview
-
 For this project, we built a "hype up" message generator program. Every time a user runs a program, they should get a new, randomized output meant to inspire confidence and good feelings for their day. 
 
 Prerequisites:
-
 - JavaScript
 - Git and GitHub
 - Command line
@@ -24,8 +19,9 @@ Prerequisites:
 - Planning completed using a private Discord server
 - Idea/language to be used developed by Dow-mp
 - HTML/CSS written by sharkba1t
-- json developed and fetched via Javascript by jlema
+- JSON fetching via Javascript developed by jlema
 - Javascript for animation, randomization, and interactivity developed collaboratively by sharkba1t, Dow-mp, jlema
+
 ## Built using
 
 - HTML / CSS
